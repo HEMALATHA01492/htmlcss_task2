@@ -1,0 +1,20 @@
+.darkblue-white {
+    background: rgb(23, 80, 45);
+    color: white;
+}
+.container{
+    background: rgb(177, 233, 177);
+}
+.card-body{
+    background: rgb(111, 179, 111);
+    border-radius: 10px;
+    margin: -2px;
+    height: 90px;
+}
+.input1{
+    
+    background-color: rgb(111, 179, 111);
+}
+.card{
+    height: 600px;
+}
